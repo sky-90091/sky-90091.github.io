@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Skycoin Developer Documentation</title>
+    <link>https://dev.skycoin.net/posts/</link>
+    <description>Recent content in Posts on Skycoin Developer Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2018 17:43:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://dev.skycoin.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://dev.skycoin.net/posts/getting-started/</link>
+      <pubDate>Thu, 18 Jan 2018 17:43:53 +0800</pubDate>
+      
+      <guid>https://dev.skycoin.net/posts/getting-started/</guid>
+      <description>Our setup consists of Following main components:
+ Skycoin Node itself and its command line utilities
+ Skycoin Teller
+  Quick Start Both the node &amp;amp; teller are developed in Go. In order to proceed, you must have a developer environment ready.
+Skycoin Node: This is a full Skycoin Node on the network. It downloads &amp;amp; stores the full chain on disk. It is used for sending signed transactions to the network and verify transactions.</description>
+    </item>
+    
+  </channel>
+</rss>
